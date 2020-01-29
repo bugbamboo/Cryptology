@@ -1,4 +1,4 @@
-
+//Uses Library from Kristian Lundkvist (kristian.lundkvist@gmail.com) for getting random data from ANU Quantum Random Number Server (https://qrng.anu.edu.au)
 import java.util.Arrays;
 import java.util.Scanner;
 
